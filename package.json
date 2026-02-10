@@ -1,0 +1,22 @@
+{
+  "name": "pw-mini",
+  "version": "1.0.0",
+  "description": "playwright mini project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChamikaraM/pw-mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChamikaraM/pw-mini/issues"
+  },
+  "homepage": "https://github.com/ChamikaraM/pw-mini#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.2"
+  }
+}
